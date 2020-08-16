@@ -1,5 +1,5 @@
 # Fast-Prediction-for-Additive-Kernels-Using-KARL
-Before you use our codes, please make sure you understand our papers [a]. Our codes mainly support the fast prediction for additive kernel SVM, including Chi2 kernel, JS kernel, and Hellinger kernel. You need to follow the following three steps to use our codes.
+Before you use our codes, please make sure you understand our papers [a]. Our codes mainly support the fast prediction for SVM models with additive kernels, including Chi2 kernel, JS kernel, and Hellinger kernel. You need to follow the following three steps to use our codes.
 
 1: Train your dataset ("Train" folder)
 2: Convert the testing dataset and the model file (in SVM format) to our format ("file_conversion" folder)
