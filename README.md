@@ -9,10 +9,10 @@ Before you use our codes, please make sure you understand our papers [a]. Our co
 
 In the future, we plan to support:
 
-1: fast training algorithms for additive kernel functions
+1: fast training algorithms for additive kernel functions.
 
-2: fast prediction algorithms for other types of kernel functions
+2: fast prediction algorithms for other types of kernel functions.
 
-3: fast algorithms for other machine learning models (e.g., kernel clustering)
+3: fast algorithms for other machine learning models (e.g., kernel clustering, Gaussian process etc.).
 
 [a] Tsz Nam Chan, Leong Hou U, Reynold Cheng, Man Lung Yiu, Shivansh Mittal. "Efficient Algorithms for Kernel Aggregation Queries" IEEE Transactions on Knowledge and Data Engineering (TKDE), To appear. ("https://edisonchan2013928.github.io/My-homepage/publication/KARL_AK.pdf")
