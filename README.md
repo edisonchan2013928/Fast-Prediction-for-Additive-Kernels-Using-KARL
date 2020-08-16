@@ -16,3 +16,5 @@ In the future, we plan to support:
 3: fast algorithms for other machine learning models (e.g., kernel clustering, Gaussian process etc.).
 
 [a] Tsz Nam Chan, Leong Hou U, Reynold Cheng, Man Lung Yiu, Shivansh Mittal. "Efficient Algorithms for Kernel Aggregation Queries" IEEE Transactions on Knowledge and Data Engineering (TKDE), To appear. ("https://edisonchan2013928.github.io/My-homepage/publication/KARL_AK.pdf")
+
+If you have any question about this paper, please contact me (just call me Edison). The contact information can be found in my personal homepage "https://edisonchan2013928.github.io/My-homepage/".
